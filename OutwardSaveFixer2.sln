@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutwardSaveFixer", "OutwardSaveTransfer\OutwardSaveFixer.csproj", "{8236CCC8-26B1-43CF-96E5-16D5E67EFAB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8236CCC8-26B1-43CF-96E5-16D5E67EFAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8236CCC8-26B1-43CF-96E5-16D5E67EFAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8236CCC8-26B1-43CF-96E5-16D5E67EFAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8236CCC8-26B1-43CF-96E5-16D5E67EFAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E5246E6-2B27-4E90-B9A5-CF73CACD6836}
+	EndGlobalSection
+EndGlobal
